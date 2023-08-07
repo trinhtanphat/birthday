@@ -14,9 +14,9 @@ $('document').ready(function(){
 			$('#b55').animate({top:240, left: vw+50},500);
 			$('#b66').animate({top:240, left: vw+150},500);
 			$('#b77').animate({top:240, left: vw+250},500);
-			$('#b88').animate({top:240, left: vw-350},500);
-			$('#b99').animate({top:240, left: vw-250},500);
-			$('#b1010').animate({top:240, left: vw-150},500);
+			$('#b88').animate({top:240, left: vw+350},500);
+			$('#b99').animate({top:240, left: vw+450},500);
+			$('#b1010').animate({top:240, left: vw+550},500);
 		});
 
 	$('#turn_on').click(function(){
